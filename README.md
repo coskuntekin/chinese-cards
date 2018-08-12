@@ -15,3 +15,9 @@ npm run serve
 ## Screenshot
 
 ![ChineseCards](screenshot.png)
+
+## Assets Sources
+
+- Voices: https://responsivevoice.org
+- Images: https://pixabay.com
+- Icons: https://fontawesome.com
