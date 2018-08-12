@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 0,
+    "hanzi": "啊",
+    "image": "",
+    "pinyinToneSpace": "a",
+    "definition": "modal particle ending sentence, showing affirmation, approval, or consent"
+  },
+  {
+    "id": 1,
+    "hanzi": "阿姨",
+    "image": "",
+    "pinyinToneSpace": "ā yí",
+    "definition": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:个"
+  },
+  {
+    "id": 2,
+    "hanzi": "矮",
+    "image": "",
+    "pinyinToneSpace": "ǎi",
+    "definition": "low; short (in length)"
+  },
+  {
+    "id": 3,
+    "hanzi": "爱好",
+    "image": "",
+    "pinyinToneSpace": "ài hào",
+    "definition": "interest; hobby; appetite for; CL:个"
+  },
+  {
+    "id": 4,
+    "hanzi": "安静",
+    "image": "",
+    "pinyinToneSpace": "ān jìng",
+    "definition": "quiet; peaceful; calm"
+  },
+  {
+    "id": 5,
+    "hanzi": "把",
+    "image": "",
+    "pinyinToneSpace": "bǎ",
+    "definition": "to hold; to contain; to grasp; to take hold of; a handle; particle marking the following noun as a direct object; classifier for objects with handle"
+  },
+  {
+    "id": 6,
+    "hanzi": "搬",
+    "image": "",
+    "pinyinToneSpace": "bān",
+    "definition": "to move; to shift; to remove; to transport; to apply indiscriminately; to copy mechanically"
+  },
+  {
+    "id": 7,
+    "hanzi": "班",
+    "image": "",
+    "pinyinToneSpace": "bān",
+    "definition": "team; class; squad; work shift; classifier for groups; ranking; surname Ban; CL:个"
+  },
+  {
+    "id": 8,
+    "hanzi": "办法",
+    "image": "",
+    "pinyinToneSpace": "bàn fǎ",
+    "definition": "means; method; way (of doing sth); CL:条[tiao2] ,个"
+  },
+  {
+    "id": 9,
+    "hanzi": "办公室",
+    "image": "",
+    "pinyinToneSpace": "bàn gōng shì",
+    "definition": "an office; business premises; a bureau; CL:间[jian1]"
+  },
+  {
+    "id": 10,
+    "hanzi": "半",
+    "image": "",
+    "pinyinToneSpace": "bàn",
+    "definition": "half; semi-; incomplete; (after a number) and a half"
+  },
+  {
+    "id": 11,
+    "hanzi": "帮忙",
+    "image": "",
+    "pinyinToneSpace": "bāng máng",
+    "definition": "to help; to lend a hand; to do a favor; to do a good turn"
+  },
+  {
+    "id": 12,
+    "hanzi": "包",
+    "image": "",
+    "pinyinToneSpace": "bāo",
+    "definition": "to cover; to wrap; to hold; to include; to take charge of; package; wrapper; container; bag; to hold or embrace; bundle; packet; to contract (to or for); surname Bao; CL:个,只[zhi1]"
+  },
+  {
+    "id": 13,
+    "hanzi": "饱",
+    "image": "",
+    "pinyinToneSpace": "bǎo",
+    "definition": "to eat till full; satisfied"
+  },
+  {
+    "id": 14,
+    "hanzi": "北方",
+    "image": "",
+    "pinyinToneSpace": "běi fāng",
+    "definition": "north; the northern part a country; China north of the Yellow River"
+  },
+  {
+    "id": 15,
+    "hanzi": "被",
+    "image": "",
+    "pinyinToneSpace": "bèi",
+    "definition": "by (indicates passive-voice sentences or clauses); quilt; to cover (literary)"
+  },
+  {
+    "id": 16,
+    "hanzi": "鼻子",
+    "image": "",
+    "pinyinToneSpace": "bí zi",
+    "definition": "nose; CL:个,只[zhi1]"
+  },
+  {
+    "id": 17,
+    "hanzi": "比较",
+    "image": "",
+    "pinyinToneSpace": "bǐ jiào",
+    "definition": "compare; contrast; fairly; comparatively; relatively; quite; rather"
+  },
+  {
+    "id": 18,
+    "hanzi": "比赛",
+    "image": "",
+    "pinyinToneSpace": "bǐ sài",
+    "definition": "competition (sports etc); match; CL:场[chang3] ,次[ci4]"
+  },
+  {
+    "id": 19,
+    "hanzi": "笔记本",
+    "image": "",
+    "pinyinToneSpace": "bǐ jì běn",
+    "definition": "notebook; CL:本[ben3]"
+  },
+  {
+    "id": 20,
+    "hanzi": "必须",
+    "image": "",
+    "pinyinToneSpace": "bì xū",
+    "definition": "to have to; must; compulsory; necessarily"
+  },
+  {
+    "id": 21,
+    "hanzi": "变化",
+    "image": "",
+    "pinyinToneSpace": "biàn huà",
+    "definition": "change; variation; to change; to vary; CL:个"
+  },
+  {
+    "id": 22,
+    "hanzi": "别人",
+    "image": "",
+    "pinyinToneSpace": "bié rén",
+    "definition": "others"
+  },
+  {
+    "id": 23,
+    "hanzi": "冰箱",
+    "image": "",
+    "pinyinToneSpace": "bīng xiāng",
+    "definition": "icebox; freezer cabinet; refrigerator; CL:台[tai2] ,个"
+  },
+  {
+    "id": 24,
+    "hanzi": "不但…而且…",
+    "image": "",
+    "pinyinToneSpace": "bù dàn …ér qiě …",
+    "definition": "not only ... but also... "
+  },
+  {
+    "id": 25,
+    "hanzi": "菜单",
+    "image": "",
+    "pinyinToneSpace": "cài dān",
+    "definition": "menu; CL:份[fen4] ,张[zhang1]"
+  },
+  {
+    "id": 26,
+    "hanzi": "参加",
+    "image": "",
+    "pinyinToneSpace": "cān jiā",
+    "definition": "to participate; to take part; to join"
+  },
+  {
+    "id": 27,
+    "hanzi": "草",
+    "image": "",
+    "pinyinToneSpace": "cǎo",
+    "definition": "grass; straw; manuscript; draft (of a document); careless; rough; CL:棵[ke1] ,撮[zuo3] ,株[zhu1] ,根[gen1]"
+  },
+  {
+    "id": 28,
+    "hanzi": "层",
+    "image": "",
+    "pinyinToneSpace": "céng",
+    "definition": "layer; stratum; laminated; floor (of a building); storey; classifier for layers; repeated; sheaf (math.)"
+  },
+  {
+    "id": 29,
+    "hanzi": "差",
+    "image": "",
+    "pinyinToneSpace": "chà",
+    "definition": "differ from; short of; to lack; poor"
+  },
+  {
+    "id": 30,
+    "hanzi": "超市",
+    "image": "",
+    "pinyinToneSpace": "chāo shì",
+    "definition": "supermarket (abbr.); CL:家[jia1]"
+  },
+  {
+    "id": 31,
+    "hanzi": "衬衫",
+    "image": "",
+    "pinyinToneSpace": "chèn shān",
+    "definition": "shirt; blouse; CL:件[jian4]"
+  },
+  {
+    "id": 32,
+    "hanzi": "城市",
+    "image": "",
+    "pinyinToneSpace": "chéng shì",
+    "definition": "city; town; CL:座[zuo4]"
+  },
+  {
+    "id": 33,
+    "hanzi": "成绩",
+    "image": "",
+    "pinyinToneSpace": "chéng jì",
+    "definition": "achievement; performance records; grades; CL:项[xiang4] ,个"
+  },
+  {
+    "id": 34,
+    "hanzi": "迟到",
+    "image": "",
+    "pinyinToneSpace": "chí dào",
+    "definition": "to arrive late"
+  },
+  {
+    "id": 35,
+    "hanzi": "除了",
+    "image": "",
+    "pinyinToneSpace": "chú le",
+    "definition": "besides; apart from (... also...); in addition to; except (for)"
+  },
+  {
+    "id": 36,
+    "hanzi": "船",
+    "image": "",
+    "pinyinToneSpace": "chuán",
+    "definition": "a boat; vessel; ship; CL:条[tiao2] ,艘[sou1] ,只[zhi1]"
+  },
+  {
+    "id": 37,
+    "hanzi": "春",
+    "image": "",
+    "pinyinToneSpace": "chūn",
+    "definition": "spring (time); gay; joyful; youthful; love; lust; life"
+  },
+  {
+    "id": 38,
+    "hanzi": "词典",
+    "image": "",
+    "pinyinToneSpace": "cí diǎn",
+    "definition": "dictionary (of Chinese compound words); CL:部[bu4] ,本[ben3]"
+  },
+  {
+    "id": 39,
+    "hanzi": "聪明",
+    "image": "",
+    "pinyinToneSpace": "cōng ming",
+    "definition": "acute (of sight and hearing); clever; intelligent; bright; smart"
+  },
+  {
+    "id": 40,
+    "hanzi": "打扫",
+    "image": "",
+    "pinyinToneSpace": "dǎ sǎo",
+    "definition": "to clean; to sweep"
+  },
+  {
+    "id": 41,
+    "hanzi": "打算",
+    "image": "",
+    "pinyinToneSpace": "dǎ suàn",
+    "definition": "to plan; to intend; to calculate; plan; intention; calculation; CL:个"
+  },
+  {
+    "id": 42,
+    "hanzi": "带",
+    "image": "",
+    "pinyinToneSpace": "dài",
+    "definition": "band; belt; girdle; ribbon; tire; area; zone; region; to wear; to carry; to lead; to bring; to look after; to raise; CL:条[tiao2]; "
+  },
+  {
+    "id": 43,
+    "hanzi": "担心",
+    "image": "",
+    "pinyinToneSpace": "dān xīn",
+    "definition": "anxious; worried; uneasy; to worry; to be anxious"
+  },
+  {
+    "id": 44,
+    "hanzi": "蛋糕",
+    "image": "",
+    "pinyinToneSpace": "dàn gāo",
+    "definition": "cake; CL:块[kuai4] ,个"
+  },
+  {
+    "id": 45,
+    "hanzi": "当然",
+    "image": "",
+    "pinyinToneSpace": "dāng rán",
+    "definition": "of course; without doubt; only natural; as it should be; certainly; "
+  },
+  {
+    "id": 46,
+    "hanzi": "地(助词)",
+    "image": "",
+    "pinyinToneSpace": "de",
+    "definition": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct; "
+  },
+  {
+    "id": 47,
+    "hanzi": "灯",
+    "image": "",
+    "pinyinToneSpace": "dēng",
+    "definition": "lamp; light; lantern; CL:盏[zhan3]"
+  },
+  {
+    "id": 48,
+    "hanzi": "地方",
+    "image": "",
+    "pinyinToneSpace": "dì fang",
+    "definition": "region; regional (away from the central administration)"
+  },
+  {
+    "id": 49,
+    "hanzi": "地铁",
+    "image": "",
+    "pinyinToneSpace": "dì tiě",
+    "definition": "subway; metro"
+  },
+  {
+    "id": 50,
+    "hanzi": "地图",
+    "image": "",
+    "pinyinToneSpace": "dì tú",
+    "definition": "map; CL:张[zhang1] ,本[ben3]"
+  },
+  {
+    "id": 51,
+    "hanzi": "电梯",
+    "image": "",
+    "pinyinToneSpace": "diàn tī",
+    "definition": "elevator; CL:台[tai2] ,部[bu4]"
+  },
+  {
+    "id": 52,
+    "hanzi": "电子邮件",
+    "image": "",
+    "pinyinToneSpace": "diàn zǐ yóu jiàn",
+    "definition": "electronic mail; email; CL:封[feng1]"
+  },
+  {
+    "id": 53,
+    "hanzi": "东",
+    "image": "",
+    "pinyinToneSpace": "dōng",
+    "definition": "east; host (i.e. sitting on east side of guest); landlord; surname Dong"
+  },
+  {
+    "id": 54,
+    "hanzi": "冬",
+    "image": "",
+    "pinyinToneSpace": "dōng",
+    "definition": "winter"
+  },
+  {
+    "id": 55,
+    "hanzi": "动物",
+    "image": "",
+    "pinyinToneSpace": "dòng wù",
+    "definition": "animal; CL:只[zhi1] ,群[qun2] ,个"
+  },
+  {
+    "id": 56,
+    "hanzi": "短",
+    "image": "",
+    "pinyinToneSpace": "duǎn",
+    "definition": "short or brief; to lack; weak point; fault"
+  },
+  {
+    "id": 57,
+    "hanzi": "段",
+    "image": "",
+    "pinyinToneSpace": "duàn",
+    "definition": "paragraph; section; segment; stage (of a process); classifier for stories, periods of time, lengths of thread etc"
+  },
+  {
+    "id": 58,
+    "hanzi": "锻炼",
+    "image": "",
+    "pinyinToneSpace": "duàn liàn",
+    "definition": "to engage in physical exercise; to toughen; to temper"
+  },
+  {
+    "id": 59,
+    "hanzi": "多么",
+    "image": "",
+    "pinyinToneSpace": "duō me",
+    "definition": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc)"
+  },
+  {
+    "id": 60,
+    "hanzi": "饿",
+    "image": "",
+    "pinyinToneSpace": "è a",
+    "definition": "to be hungry; hungry"
+  },
+  {
+    "id": 61,
+    "hanzi": "耳朵",
+    "image": "",
+    "pinyinToneSpace": "ěr duo",
+    "definition": "ear; CL:只[zhi1] ,个,对[dui4]"
+  },
+  {
+    "id": 62,
+    "hanzi": "发",
+    "image": "",
+    "pinyinToneSpace": "fā",
+    "definition": "to send out; to show (one's feeling); to issue; to develop; classifier for gunshots (rounds)"
+  },
+  {
+    "id": 63,
+    "hanzi": "发烧",
+    "image": "",
+    "pinyinToneSpace": "fā shāo",
+    "definition": "have a high temperature (from illness); have a fever"
+  },
+  {
+    "id": 64,
+    "hanzi": "发现",
+    "image": "",
+    "pinyinToneSpace": "fā xiàn",
+    "definition": "to find; to discover"
+  },
+  {
+    "id": 65,
+    "hanzi": "方便",
+    "image": "",
+    "pinyinToneSpace": "fāng biàn",
+    "definition": "convenient; to help out; to make things easy for people; convenience; suitable; having money to spare; (euphemism) to go to the toilet"
+  },
+  {
+    "id": 66,
+    "hanzi": "放",
+    "image": "",
+    "pinyinToneSpace": "fàng",
+    "definition": "to release; to free; to let go; to put; to place; to let out; to set off (fireworks)"
+  },
+  {
+    "id": 67,
+    "hanzi": "放心",
+    "image": "",
+    "pinyinToneSpace": "fàng xīn",
+    "definition": "to set one's mind at rest; to be at ease; to rest"
+  },
+  {
+    "id": 68,
+    "hanzi": "分",
+    "image": "",
+    "pinyinToneSpace": "fēn",
+    "definition": "to divide; to separate; to allocate; to distinguish (good and bad); part or subdivision; fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute; a point (in sports or games); 0.01 yuan (unit of money)"
+  },
+  {
+    "id": 69,
+    "hanzi": "复习",
+    "image": "",
+    "pinyinToneSpace": "fù xí",
+    "definition": "to revise; to review; revision; CL:次[ci4]"
+  },
+  {
+    "id": 70,
+    "hanzi": "附近",
+    "image": "",
+    "pinyinToneSpace": "fù jìn",
+    "definition": "(in the) vicinity; nearby; neighboring; next to"
+  },
+  {
+    "id": 71,
+    "hanzi": "干净",
+    "image": "",
+    "pinyinToneSpace": "gān jìng",
+    "definition": "neat and tidy; clean"
+  },
+  {
+    "id": 72,
+    "hanzi": "感冒",
+    "image": "",
+    "pinyinToneSpace": "gǎn mào",
+    "definition": "to catch cold; (common) cold; CL:次[ci4]"
+  },
+  {
+    "id": 73,
+    "hanzi": "感兴趣",
+    "image": "",
+    "pinyinToneSpace": "gǎn xìng qù ",
+    "definition": "to be interested; "
+  },
+  {
+    "id": 74,
+    "hanzi": "刚才",
+    "image": "",
+    "pinyinToneSpace": "gāng cái",
+    "definition": "just now; a moment ago"
+  },
+  {
+    "id": 75,
+    "hanzi": "个子",
+    "image": "",
+    "pinyinToneSpace": "gè zi",
+    "definition": "height; stature; build; size"
+  },
+  {
+    "id": 76,
+    "hanzi": "根据",
+    "image": "",
+    "pinyinToneSpace": "gēn jù",
+    "definition": "according to; based on; basis; foundation; CL:个"
+  },
+  {
+    "id": 77,
+    "hanzi": "跟",
+    "image": "",
+    "pinyinToneSpace": "gēn",
+    "definition": "with (someone); towards; as (compared to); and (in addition to); heel; to follow closely; to go with; to marry sb (of woman)"
+  },
+  {
+    "id": 78,
+    "hanzi": "更",
+    "image": "",
+    "pinyinToneSpace": "gèng",
+    "definition": "more; still more; even more"
+  },
+  {
+    "id": 79,
+    "hanzi": "公斤",
+    "image": "",
+    "pinyinToneSpace": "gōng jīn",
+    "definition": "kilogram (kg)"
+  },
+  {
+    "id": 80,
+    "hanzi": "公园",
+    "image": "",
+    "pinyinToneSpace": "gōng yuán",
+    "definition": "public park; CL:场[chang3]"
+  },
+  {
+    "id": 81,
+    "hanzi": "故事",
+    "image": "",
+    "pinyinToneSpace": "gù shi",
+    "definition": "story; tale; narrative"
+  },
+  {
+    "id": 82,
+    "hanzi": "刮风",
+    "image": "",
+    "pinyinToneSpace": "guā fēng",
+    "definition": "to be windy"
+  },
+  {
+    "id": 83,
+    "hanzi": "关",
+    "image": "",
+    "pinyinToneSpace": "guān",
+    "definition": "to close; to shut; to turn off; mountain pass; to concern; to involve"
+  },
+  {
+    "id": 84,
+    "hanzi": "关系",
+    "image": "",
+    "pinyinToneSpace": "guān xì",
+    "definition": "relationship (network); relation; to concern; to affect; to have to do with; guanxi; CL:个"
+  },
+  {
+    "id": 85,
+    "hanzi": "关心",
+    "image": "",
+    "pinyinToneSpace": "guān xīn",
+    "definition": "to care for sth; caring; concerned"
+  },
+  {
+    "id": 86,
+    "hanzi": "关于",
+    "image": "",
+    "pinyinToneSpace": "guān yú",
+    "definition": "pertaining to; concerning; regarding; with regards to; about; a matter of"
+  },
+  {
+    "id": 87,
+    "hanzi": "国家",
+    "image": "",
+    "pinyinToneSpace": "guó jiā",
+    "definition": "country; nation; state; CL:个"
+  },
+  {
+    "id": 88,
+    "hanzi": "过(动词)",
+    "image": "",
+    "pinyinToneSpace": "guò",
+    "definition": "to cross; to go over; to pass (time); to get along"
+  },
+  {
+    "id": 89,
+    "hanzi": "过去",
+    "image": "",
+    "pinyinToneSpace": "guò qu",
+    "definition": "(in the) past; former; previous; to go over; to pass by"
+  },
+  {
+    "id": 90,
+    "hanzi": "还是",
+    "image": "",
+    "pinyinToneSpace": "hái shì",
+    "definition": "or; still; nevertheless"
+  },
+  {
+    "id": 91,
+    "hanzi": "害怕",
+    "image": "",
+    "pinyinToneSpace": "hài pà",
+    "definition": "to be afraid; to be scared"
+  },
+  {
+    "id": 92,
+    "hanzi": "黑板",
+    "image": "",
+    "pinyinToneSpace": "hēi bǎn",
+    "definition": "blackboard; CL:块[kuai4] ,个"
+  },
+  {
+    "id": 93,
+    "hanzi": "后来",
+    "image": "",
+    "pinyinToneSpace": "hòu lái",
+    "definition": "afterwards; later"
+  },
+  {
+    "id": 94,
+    "hanzi": "护照",
+    "image": "",
+    "pinyinToneSpace": "hù zhào",
+    "definition": "passport; CL:本[ben3] ,个"
+  },
+  {
+    "id": 95,
+    "hanzi": "花(动词)",
+    "image": "",
+    "pinyinToneSpace": "huā",
+    "definition": "to blossom; to spend (money, time)"
+  },
+  {
+    "id": 96,
+    "hanzi": "花(名词)",
+    "image": "",
+    "pinyinToneSpace": "huā",
+    "definition": "flower; blossoms; bloom: pattern: design"
+  },
+  {
+    "id": 97,
+    "hanzi": "画",
+    "image": "",
+    "pinyinToneSpace": "huà",
+    "definition": "to draw; picture; painting; CL:幅[fu2] ,张[zhang1]"
+  },
+  {
+    "id": 98,
+    "hanzi": "坏",
+    "image": "",
+    "pinyinToneSpace": "huài",
+    "definition": "bad; spoiled; broken; to break down"
+  },
+  {
+    "id": 99,
+    "hanzi": "欢迎",
+    "image": "",
+    "pinyinToneSpace": "huān yíng",
+    "definition": "to welcome; welcome"
+  },
+  {
+    "id": 100,
+    "hanzi": "环境",
+    "image": "",
+    "pinyinToneSpace": "huán jìng",
+    "definition": "environment; circumstances; surroundings; ambient; CL:个"
+  },
+  {
+    "id": 101,
+    "hanzi": "还(动词)",
+    "image": "",
+    "pinyinToneSpace": "huán",
+    "definition": "to come back; to give back; to return; to pay back"
+  },
+  {
+    "id": 102,
+    "hanzi": "换",
+    "image": "",
+    "pinyinToneSpace": "huàn",
+    "definition": "change; exchange"
+  },
+  {
+    "id": 103,
+    "hanzi": "黄河",
+    "image": "",
+    "pinyinToneSpace": "huáng hé ",
+    "definition": "Yellow River"
+  },
+  {
+    "id": 104,
+    "hanzi": "回答",
+    "image": "",
+    "pinyinToneSpace": "huí dá",
+    "definition": "to reply; to answer; the answer; CL:个"
+  },
+  {
+    "id": 105,
+    "hanzi": "会议",
+    "image": "",
+    "pinyinToneSpace": "huì yì",
+    "definition": "meeting; conference; CL:场[chang3] ,届[jie4]"
+  },
+  {
+    "id": 106,
+    "hanzi": "或者",
+    "image": "",
+    "pinyinToneSpace": "huò zhě",
+    "definition": "or; possibly; maybe; perhaps"
+  },
+  {
+    "id": 107,
+    "hanzi": "几乎",
+    "image": "",
+    "pinyinToneSpace": "jī hū",
+    "definition": "almost; nearly; practically"
+  },
+  {
+    "id": 108,
+    "hanzi": "机会",
+    "image": "",
+    "pinyinToneSpace": "jī huì",
+    "definition": "opportunity; chance; occasion; CL:个"
+  },
+  {
+    "id": 109,
+    "hanzi": "极",
+    "image": "",
+    "pinyinToneSpace": "jí",
+    "definition": "extremely; pole (geography, physics); utmost; top"
+  },
+  {
+    "id": 110,
+    "hanzi": "季节",
+    "image": "",
+    "pinyinToneSpace": "jì jié",
+    "definition": "time; season; period; CL:个"
+  },
+  {
+    "id": 111,
+    "hanzi": "记得",
+    "image": "",
+    "pinyinToneSpace": "jì de",
+    "definition": "to remember"
+  },
+  {
+    "id": 112,
+    "hanzi": "检查",
+    "image": "",
+    "pinyinToneSpace": "jiǎn chá",
+    "definition": "inspection; to examine; to inspect; CL:次[ci4]"
+  },
+  {
+    "id": 113,
+    "hanzi": "简单",
+    "image": "",
+    "pinyinToneSpace": "jiǎn dān",
+    "definition": "simple; not complicated"
+  },
+  {
+    "id": 114,
+    "hanzi": "健康",
+    "image": "",
+    "pinyinToneSpace": "jiàn kāng",
+    "definition": "health; healthy"
+  },
+  {
+    "id": 115,
+    "hanzi": "见面",
+    "image": "",
+    "pinyinToneSpace": "jiàn miàn",
+    "definition": "to meet; to see sb; CL:次[ci4]"
+  },
+  {
+    "id": 116,
+    "hanzi": "讲",
+    "image": "",
+    "pinyinToneSpace": "jiǎng",
+    "definition": "to explain; to speak; to negotiate; to emphasise; to be particular about; as far as sth is concerned; speech; lecture"
+  },
+  {
+    "id": 117,
+    "hanzi": "教",
+    "image": "",
+    "pinyinToneSpace": "jiào",
+    "definition": "to teach"
+  },
+  {
+    "id": 118,
+    "hanzi": "脚",
+    "image": "",
+    "pinyinToneSpace": "jiǎo",
+    "definition": "foot; leg; base; kick; CL:双[shuang1] ,只[zhi1]"
+  },
+  {
+    "id": 119,
+    "hanzi": "角",
+    "image": "",
+    "pinyinToneSpace": "jiǎo",
+    "definition": "horn; angle; corner ; horn-shaped; unit of money equal to 0.10 yuan; CL:个"
+  },
+  {
+    "id": 120,
+    "hanzi": "接",
+    "image": "",
+    "pinyinToneSpace": "jiē",
+    "definition": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; take over for sb"
+  },
+  {
+    "id": 121,
+    "hanzi": "街道",
+    "image": "",
+    "pinyinToneSpace": "jiē dào",
+    "definition": "street; CL:条[tiao2]"
+  },
+  {
+    "id": 122,
+    "hanzi": "结婚",
+    "image": "",
+    "pinyinToneSpace": "jié hūn",
+    "definition": "to marry; to get married; CL:次[ci4]"
+  },
+  {
+    "id": 123,
+    "hanzi": "结束",
+    "image": "",
+    "pinyinToneSpace": "jié shù",
+    "definition": "to finish; to end; to conclude; to close; termination"
+  },
+  {
+    "id": 124,
+    "hanzi": "节目",
+    "image": "",
+    "pinyinToneSpace": "jié mù",
+    "definition": "program; item (on a program); CL:台[tai2] ,个,套[tao4]"
+  },
+  {
+    "id": 125,
+    "hanzi": "节日",
+    "image": "",
+    "pinyinToneSpace": "jié rì",
+    "definition": "holiday; festival; CL:个"
+  },
+  {
+    "id": 126,
+    "hanzi": "解决",
+    "image": "",
+    "pinyinToneSpace": "jiě jué",
+    "definition": "to settle (a dispute); to resolve; to solve"
+  },
+  {
+    "id": 127,
+    "hanzi": "借",
+    "image": "",
+    "pinyinToneSpace": "jiè",
+    "definition": "to lend; to borrow; excuse; pretext; by means of; to seize (an opportunity); to take (an opportunity)"
+  },
+  {
+    "id": 128,
+    "hanzi": "经常",
+    "image": "",
+    "pinyinToneSpace": "jīng cháng",
+    "definition": "day to day; everyday; daily; frequently; constantly; regularly; often"
+  },
+  {
+    "id": 129,
+    "hanzi": "经过",
+    "image": "",
+    "pinyinToneSpace": "jīng guò",
+    "definition": "to pass; to go through; process; course; CL:个"
+  },
+  {
+    "id": 130,
+    "hanzi": "经理",
+    "image": "",
+    "pinyinToneSpace": "jīng lǐ",
+    "definition": "manager; director; CL:个,位[wei4] ,名[ming2]"
+  },
+  {
+    "id": 131,
+    "hanzi": "久",
+    "image": "",
+    "pinyinToneSpace": "jiǔ",
+    "definition": "(long) time; (long) duration of time"
+  },
+  {
+    "id": 132,
+    "hanzi": "旧",
+    "image": "",
+    "pinyinToneSpace": "jiù",
+    "definition": "old; opposite: new 新; former; worn (with age)"
+  },
+  {
+    "id": 133,
+    "hanzi": "句子",
+    "image": "",
+    "pinyinToneSpace": "jù zi",
+    "definition": "sentence; CL:个"
+  },
+  {
+    "id": 134,
+    "hanzi": "决定",
+    "image": "",
+    "pinyinToneSpace": "jué dìng",
+    "definition": "to decide (to do something); to resolve; decision; certainly; CL:个,项[xiang4]"
+  },
+  {
+    "id": 135,
+    "hanzi": "可爱",
+    "image": "",
+    "pinyinToneSpace": "kě ài",
+    "definition": "amiable; cute; lovely"
+  },
+  {
+    "id": 136,
+    "hanzi": "渴",
+    "image": "",
+    "pinyinToneSpace": "kě",
+    "definition": "thirsty"
+  },
+  {
+    "id": 137,
+    "hanzi": "刻",
+    "image": "",
+    "pinyinToneSpace": "kè",
+    "definition": "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals"
+  },
+  {
+    "id": 138,
+    "hanzi": "客人",
+    "image": "",
+    "pinyinToneSpace": "kè rén",
+    "definition": "visitor; guest; customer; client; CL:位[wei4]"
+  },
+  {
+    "id": 139,
+    "hanzi": "空调",
+    "image": "",
+    "pinyinToneSpace": "kōng tiáo",
+    "definition": "air conditioning"
+  },
+  {
+    "id": 140,
+    "hanzi": "口",
+    "image": "",
+    "pinyinToneSpace": "kǒu",
+    "definition": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc)"
+  },
+  {
+    "id": 141,
+    "hanzi": "哭",
+    "image": "",
+    "pinyinToneSpace": "kū",
+    "definition": "to cry; to weep"
+  },
+  {
+    "id": 142,
+    "hanzi": "裤子",
+    "image": "",
+    "pinyinToneSpace": "kù zi",
+    "definition": "trousers; pants; CL:条[tiao2]"
+  },
+  {
+    "id": 143,
+    "hanzi": "筷子",
+    "image": "",
+    "pinyinToneSpace": "kuài zi",
+    "definition": "chopsticks; CL:对[dui4] ,根[gen1] ,把[ba3] ,双[shuang1]"
+  },
+  {
+    "id": 144,
+    "hanzi": "蓝",
+    "image": "",
+    "pinyinToneSpace": "lán",
+    "definition": "blue; indigo plant"
+  },
+  {
+    "id": 145,
+    "hanzi": "老",
+    "image": "",
+    "pinyinToneSpace": "lǎo",
+    "definition": "old (of people); venerable (person); prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough"
+  },
+  {
+    "id": 146,
+    "hanzi": "离开",
+    "image": "",
+    "pinyinToneSpace": "lí kāi",
+    "definition": "to depart; to leave"
+  },
+  {
+    "id": 147,
+    "hanzi": "礼物",
+    "image": "",
+    "pinyinToneSpace": "lǐ wù",
+    "definition": "gift; present; CL:件[jian4] ,个,份[fen4]"
+  },
+  {
+    "id": 148,
+    "hanzi": "历史",
+    "image": "",
+    "pinyinToneSpace": "lì shǐ",
+    "definition": "History; CL:门[men2] ,段[duan4]"
+  },
+  {
+    "id": 149,
+    "hanzi": "脸",
+    "image": "",
+    "pinyinToneSpace": "liǎn",
+    "definition": "face; CL:张[zhang1] ,个"
+  },
+  {
+    "id": 150,
+    "hanzi": "练习",
+    "image": "",
+    "pinyinToneSpace": "liàn xí",
+    "definition": "exercise; drill; practice; CL:个"
+  },
+  {
+    "id": 151,
+    "hanzi": "辆",
+    "image": "",
+    "pinyinToneSpace": "liàng",
+    "definition": "classifier for vehicles"
+  },
+  {
+    "id": 152,
+    "hanzi": "聊天",
+    "image": "",
+    "pinyinToneSpace": "liáo tiān",
+    "definition": "to chat; to gossip"
+  },
+  {
+    "id": 153,
+    "hanzi": "了解",
+    "image": "",
+    "pinyinToneSpace": "liǎo jiě",
+    "definition": "to understand; to realize; to find out"
+  },
+  {
+    "id": 154,
+    "hanzi": "邻居",
+    "image": "",
+    "pinyinToneSpace": "lín jū",
+    "definition": "neighbor; next door; CL:个"
+  },
+  {
+    "id": 155,
+    "hanzi": "留学",
+    "image": "",
+    "pinyinToneSpace": "liú xué",
+    "definition": "to study abroad"
+  },
+  {
+    "id": 156,
+    "hanzi": "楼",
+    "image": "",
+    "pinyinToneSpace": "lóu",
+    "definition": "house with more than 1 story; storied building; floor; CL:层[ceng2] ,座[zuo4] ,栋[dong4]"
+  },
+  {
+    "id": 157,
+    "hanzi": "绿",
+    "image": "",
+    "pinyinToneSpace": "lv4",
+    "definition": "green"
+  },
+  {
+    "id": 158,
+    "hanzi": "马",
+    "image": "",
+    "pinyinToneSpace": "mǎ",
+    "definition": "horse; abbr. for Malaysia,CL:匹"
+  },
+  {
+    "id": 159,
+    "hanzi": "马上",
+    "image": "",
+    "pinyinToneSpace": "mǎ shàng",
+    "definition": "right away; at once; immediately; lit. on horseback"
+  },
+  {
+    "id": 160,
+    "hanzi": "满意",
+    "image": "",
+    "pinyinToneSpace": "mǎn yì",
+    "definition": "satisfied; pleased; to one's satisfaction"
+  },
+  {
+    "id": 161,
+    "hanzi": "帽子",
+    "image": "",
+    "pinyinToneSpace": "mào zi",
+    "definition": "hat; cap; CL:顶[ding3]"
+  },
+  {
+    "id": 162,
+    "hanzi": "米",
+    "image": "",
+    "pinyinToneSpace": "mǐ",
+    "definition": "rice; meter (classifier); CL:粒[li4]"
+  },
+  {
+    "id": 163,
+    "hanzi": "面包",
+    "image": "",
+    "pinyinToneSpace": "miàn bāo",
+    "definition": "bread; CL:片[pian4] ,袋[dai4] ,块[kuai4]"
+  },
+  {
+    "id": 164,
+    "hanzi": "明白",
+    "image": "",
+    "pinyinToneSpace": "míng bai",
+    "definition": "to understand (clearly); to realize; clear; obvious; unequivocal; "
+  },
+  {
+    "id": 165,
+    "hanzi": "拿",
+    "image": "",
+    "pinyinToneSpace": "ná",
+    "definition": "to hold; to seize; to catch; to apprehend; to take"
+  },
+  {
+    "id": 166,
+    "hanzi": "奶奶",
+    "image": "",
+    "pinyinToneSpace": "nǎi nai",
+    "definition": "(informal) father's mother; paternal grandmother; CL:位[wei4]"
+  },
+  {
+    "id": 167,
+    "hanzi": "南",
+    "image": "",
+    "pinyinToneSpace": "nán",
+    "definition": "south"
+  },
+  {
+    "id": 168,
+    "hanzi": "难",
+    "image": "",
+    "pinyinToneSpace": "nán",
+    "definition": "difficult (to...); problem; difficulty; difficult; not good"
+  },
+  {
+    "id": 169,
+    "hanzi": "难过",
+    "image": "",
+    "pinyinToneSpace": "nán guò",
+    "definition": "feel sorry; be grieved"
+  },
+  {
+    "id": 170,
+    "hanzi": "年级",
+    "image": "",
+    "pinyinToneSpace": "nián jí",
+    "definition": "grade; CL:个"
+  },
+  {
+    "id": 171,
+    "hanzi": "年轻",
+    "image": "",
+    "pinyinToneSpace": "nián qīng",
+    "definition": "young"
+  },
+  {
+    "id": 172,
+    "hanzi": "鸟",
+    "image": "",
+    "pinyinToneSpace": "niǎo",
+    "definition": "bird; CL:只[zhi1] ,群[qun2]"
+  },
+  {
+    "id": 173,
+    "hanzi": "努力",
+    "image": "",
+    "pinyinToneSpace": "nǔ lì",
+    "definition": "great effort; to strive; to try hard"
+  },
+  {
+    "id": 174,
+    "hanzi": "爬山",
+    "image": "",
+    "pinyinToneSpace": "pá shān",
+    "definition": "to climb a mountain; to mountaineer; hiking; mountaineering"
+  },
+  {
+    "id": 175,
+    "hanzi": "盘子",
+    "image": "",
+    "pinyinToneSpace": "pán zi",
+    "definition": "plate; tray; dish"
+  },
+  {
+    "id": 176,
+    "hanzi": "胖",
+    "image": "",
+    "pinyinToneSpace": "pàng",
+    "definition": "fat; plump"
+  },
+  {
+    "id": 177,
+    "hanzi": "啤酒",
+    "image": "",
+    "pinyinToneSpace": "pí jiǔ",
+    "definition": "beer; CL:杯[bei1] ,瓶[ping2] ,罐[guan4] ,桶[tong3] ,缸[gang1]"
+  },
+  {
+    "id": 178,
+    "hanzi": "皮鞋",
+    "image": "",
+    "pinyinToneSpace": "pí xié",
+    "definition": "leather shoes"
+  },
+  {
+    "id": 179,
+    "hanzi": "瓶子",
+    "image": "",
+    "pinyinToneSpace": "píng zi",
+    "definition": "bottle; CL:个"
+  },
+  {
+    "id": 180,
+    "hanzi": "其实",
+    "image": "",
+    "pinyinToneSpace": "qí shí",
+    "definition": "actually; in fact; really"
+  },
+  {
+    "id": 181,
+    "hanzi": "其他",
+    "image": "",
+    "pinyinToneSpace": "qí tā",
+    "definition": "other; the others; else; other than (that person); in addition to the person mentioned above"
+  },
+  {
+    "id": 182,
+    "hanzi": "奇怪",
+    "image": "",
+    "pinyinToneSpace": "qí guài",
+    "definition": "strange; odd"
+  },
+  {
+    "id": 183,
+    "hanzi": "骑",
+    "image": "",
+    "pinyinToneSpace": "qí",
+    "definition": "to ride (an animal or bike); to sit astride"
+  },
+  {
+    "id": 184,
+    "hanzi": "起飞",
+    "image": "",
+    "pinyinToneSpace": "qǐ fēi",
+    "definition": "to take off (in an airplane)"
+  },
+  {
+    "id": 185,
+    "hanzi": "起来",
+    "image": "",
+    "pinyinToneSpace": "qǐ lái",
+    "definition": "beginning or continuing an action; upward movement; stand up"
+  },
+  {
+    "id": 186,
+    "hanzi": "清楚",
+    "image": "",
+    "pinyinToneSpace": "qīng chu",
+    "definition": "（be) clear (about); clearly understood; clear; distinct"
+  },
+  {
+    "id": 187,
+    "hanzi": "请假",
+    "image": "",
+    "pinyinToneSpace": "qǐng jià",
+    "definition": "ask for time off"
+  },
+  {
+    "id": 188,
+    "hanzi": "秋",
+    "image": "",
+    "pinyinToneSpace": "qiū",
+    "definition": "autumn; fall; harvest time; a swing; surname Qiu"
+  },
+  {
+    "id": 189,
+    "hanzi": "裙子",
+    "image": "",
+    "pinyinToneSpace": "qún zi",
+    "definition": "skirt; CL:条[tiao2]"
+  },
+  {
+    "id": 190,
+    "hanzi": "然后",
+    "image": "",
+    "pinyinToneSpace": "rán hòu",
+    "definition": "then (afterwards); after that; afterwards; after"
+  },
+  {
+    "id": 191,
+    "hanzi": "热情",
+    "image": "",
+    "pinyinToneSpace": "rè qíng",
+    "definition": "cordial; enthusiastic; passion; passionate; passionately"
+  },
+  {
+    "id": 192,
+    "hanzi": "认为",
+    "image": "",
+    "pinyinToneSpace": "rèn wéi",
+    "definition": "to believe; to think; to consider; to feel"
+  },
+  {
+    "id": 193,
+    "hanzi": "认真",
+    "image": "",
+    "pinyinToneSpace": "rèn zhēn",
+    "definition": "conscientious; earnest; serious; to take seriously; to take to heart"
+  },
+  {
+    "id": 194,
+    "hanzi": "容易",
+    "image": "",
+    "pinyinToneSpace": "róng yì",
+    "definition": "easy; likely; liable (to)"
+  },
+  {
+    "id": 195,
+    "hanzi": "如果",
+    "image": "",
+    "pinyinToneSpace": "rú guǒ",
+    "definition": "if; in case; in the event that"
+  },
+  {
+    "id": 196,
+    "hanzi": "伞",
+    "image": "",
+    "pinyinToneSpace": "sǎn",
+    "definition": "umbrella; parasol; CL:把[ba3]"
+  },
+  {
+    "id": 197,
+    "hanzi": "上网",
+    "image": "",
+    "pinyinToneSpace": "shàng wǎng",
+    "definition": "to be on the internet; to stretch a net (in a sports game or for covering sth); to be netted (of fish)"
+  },
+  {
+    "id": 198,
+    "hanzi": "声音",
+    "image": "",
+    "pinyinToneSpace": "shēng yīn",
+    "definition": "voice; sound; CL:个"
+  },
+  {
+    "id": 199,
+    "hanzi": "生气",
+    "image": "",
+    "pinyinToneSpace": "shēng qì",
+    "definition": "angry; mad; offended; animated; to get angry; to be enraged; to take offense; animation"
+  },
+  {
+    "id": 200,
+    "hanzi": "世界",
+    "image": "",
+    "pinyinToneSpace": "shì jiè",
+    "definition": "world; CL:个"
+  },
+  {
+    "id": 201,
+    "hanzi": "试",
+    "image": "",
+    "pinyinToneSpace": "shì",
+    "definition": "to test; to try; experiment; examination; test"
+  },
+  {
+    "id": 202,
+    "hanzi": "瘦",
+    "image": "",
+    "pinyinToneSpace": "shòu",
+    "definition": "tight; thin; lean"
+  },
+  {
+    "id": 203,
+    "hanzi": "叔叔",
+    "image": "",
+    "pinyinToneSpace": "shū shu",
+    "definition": "father's younger brother; uncle; CL:个"
+  },
+  {
+    "id": 204,
+    "hanzi": "舒服",
+    "image": "",
+    "pinyinToneSpace": "shū fu",
+    "definition": "comfortable; feeling well"
+  },
+  {
+    "id": 205,
+    "hanzi": "数学",
+    "image": "",
+    "pinyinToneSpace": "shù xué",
+    "definition": "mathematics; mathematical"
+  },
+  {
+    "id": 206,
+    "hanzi": "树",
+    "image": "",
+    "pinyinToneSpace": "shù",
+    "definition": "tree; CL:棵[ke1]"
+  },
+  {
+    "id": 207,
+    "hanzi": "刷牙",
+    "image": "",
+    "pinyinToneSpace": "shuā yá",
+    "definition": "to brush teeth"
+  },
+  {
+    "id": 208,
+    "hanzi": "双",
+    "image": "",
+    "pinyinToneSpace": "shuāng",
+    "definition": "pair; double; two; both"
+  },
+  {
+    "id": 209,
+    "hanzi": "水平",
+    "image": "",
+    "pinyinToneSpace": "shuǐ píng",
+    "definition": "level (of achievement etc); standard; horizontal"
+  },
+  {
+    "id": 210,
+    "hanzi": "司机",
+    "image": "",
+    "pinyinToneSpace": "sī jī",
+    "definition": "chauffeur; driver; CL:个"
+  },
+  {
+    "id": 211,
+    "hanzi": "太阳",
+    "image": "",
+    "pinyinToneSpace": "tài yáng",
+    "definition": "sun; CL:个"
+  },
+  {
+    "id": 212,
+    "hanzi": "特别",
+    "image": "",
+    "pinyinToneSpace": "tè bié",
+    "definition": "especially; special; particular; unusual"
+  },
+  {
+    "id": 213,
+    "hanzi": "疼",
+    "image": "",
+    "pinyinToneSpace": "téng",
+    "definition": "(it) hurts; love fondly; ache; pain; sore"
+  },
+  {
+    "id": 214,
+    "hanzi": "提高",
+    "image": "",
+    "pinyinToneSpace": "tí gāo",
+    "definition": "to raise; to increase"
+  },
+  {
+    "id": 215,
+    "hanzi": "体育",
+    "image": "",
+    "pinyinToneSpace": "tǐ yù",
+    "definition": "sports; physical education"
+  },
+  {
+    "id": 216,
+    "hanzi": "甜",
+    "image": "",
+    "pinyinToneSpace": "tián",
+    "definition": "sweet"
+  },
+  {
+    "id": 217,
+    "hanzi": "条",
+    "image": "",
+    "pinyinToneSpace": "tiáo",
+    "definition": "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)"
+  },
+  {
+    "id": 218,
+    "hanzi": "同事",
+    "image": "",
+    "pinyinToneSpace": "tóng shì",
+    "definition": "colleague; co-worker; CL:个,位[wei4]"
+  },
+  {
+    "id": 219,
+    "hanzi": "同意",
+    "image": "",
+    "pinyinToneSpace": "tóng yì",
+    "definition": "to agree; to consent; to approve"
+  },
+  {
+    "id": 220,
+    "hanzi": "头发",
+    "image": "",
+    "pinyinToneSpace": "tóu fa",
+    "definition": "hair (on the head)"
+  },
+  {
+    "id": 221,
+    "hanzi": "突然",
+    "image": "",
+    "pinyinToneSpace": "tū rán",
+    "definition": "sudden; abrupt; unexpected"
+  },
+  {
+    "id": 222,
+    "hanzi": "图书馆",
+    "image": "",
+    "pinyinToneSpace": "tú shū guǎn",
+    "definition": "library; CL:家[jia1] ,个"
+  },
+  {
+    "id": 223,
+    "hanzi": "腿",
+    "image": "",
+    "pinyinToneSpace": "tuǐ",
+    "definition": "leg; CL:条[tiao2]"
+  },
+  {
+    "id": 224,
+    "hanzi": "完成",
+    "image": "",
+    "pinyinToneSpace": "wán chéng",
+    "definition": "complete; accomplish; perfect tense (grammar)"
+  },
+  {
+    "id": 225,
+    "hanzi": "碗",
+    "image": "",
+    "pinyinToneSpace": "wǎn",
+    "definition": "bowl; cup; CL:只[zhi1] ,个"
+  },
+  {
+    "id": 226,
+    "hanzi": "万",
+    "image": "",
+    "pinyinToneSpace": "wàn",
+    "definition": "ten thousand; a great number"
+  },
+  {
+    "id": 227,
+    "hanzi": "忘记",
+    "image": "",
+    "pinyinToneSpace": "wàng jì",
+    "definition": "to forget"
+  },
+  {
+    "id": 228,
+    "hanzi": "为",
+    "image": "",
+    "pinyinToneSpace": "wèi",
+    "definition": "because of; for; to"
+  },
+  {
+    "id": 229,
+    "hanzi": "为了",
+    "image": "",
+    "pinyinToneSpace": "wèi le",
+    "definition": "in order to; for the purpose of; so as to"
+  },
+  {
+    "id": 230,
+    "hanzi": "位",
+    "image": "",
+    "pinyinToneSpace": "wèi",
+    "definition": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)"
+  },
+  {
+    "id": 231,
+    "hanzi": "文化",
+    "image": "",
+    "pinyinToneSpace": "wén huà",
+    "definition": "culture; civilization; cultural; CL:个,种[zhong3]"
+  },
+  {
+    "id": 232,
+    "hanzi": "西",
+    "image": "",
+    "pinyinToneSpace": "xī",
+    "definition": "west"
+  },
+  {
+    "id": 233,
+    "hanzi": "习惯",
+    "image": "",
+    "pinyinToneSpace": "xí guàn",
+    "definition": "habit; custom; usual practice; to be used to; CL:个"
+  },
+  {
+    "id": 234,
+    "hanzi": "洗手间",
+    "image": "",
+    "pinyinToneSpace": "xǐ shǒu jiān",
+    "definition": "toilet; lavatory; washroom"
+  },
+  {
+    "id": 235,
+    "hanzi": "洗澡",
+    "image": "",
+    "pinyinToneSpace": "xǐ zǎo",
+    "definition": "to bathe; to take a shower"
+  },
+  {
+    "id": 236,
+    "hanzi": "夏",
+    "image": "",
+    "pinyinToneSpace": "xià",
+    "definition": "summer"
+  },
+  {
+    "id": 237,
+    "hanzi": "先",
+    "image": "",
+    "pinyinToneSpace": "xiān",
+    "definition": "early; prior; former; in advance; first"
+  },
+  {
+    "id": 238,
+    "hanzi": "相信",
+    "image": "",
+    "pinyinToneSpace": "xiāng xìn",
+    "definition": "to believe; to be convinced (that something is true); to accept sth as true"
+  },
+  {
+    "id": 239,
+    "hanzi": "香蕉",
+    "image": "",
+    "pinyinToneSpace": "xiāng jiāo",
+    "definition": "banana; CL:枝[zhi1] ,根[gen1] ,个,把[ba3]"
+  },
+  {
+    "id": 240,
+    "hanzi": "像",
+    "image": "",
+    "pinyinToneSpace": "xiàng",
+    "definition": "(look) like; similar (to); appearance; to appear; to seem; image; portrait; resemble; seem"
+  },
+  {
+    "id": 241,
+    "hanzi": "向",
+    "image": "",
+    "pinyinToneSpace": "xiàng",
+    "definition": "direction; orientation; to face; to turn toward; to; towards; shortly before; formerly; to side with; to be partial to; all along (previously); surname Xiang"
+  },
+  {
+    "id": 242,
+    "hanzi": "小心",
+    "image": "",
+    "pinyinToneSpace": "xiǎo xīn",
+    "definition": "to be careful; to take care"
+  },
+  {
+    "id": 243,
+    "hanzi": "校长",
+    "image": "",
+    "pinyinToneSpace": "xiào zhǎng",
+    "definition": "(college, university) president; headmaster; CL:个,位[wei4] ,名[ming2]"
+  },
+  {
+    "id": 244,
+    "hanzi": "新闻",
+    "image": "",
+    "pinyinToneSpace": "xīn wén",
+    "definition": "news; CL:条[tiao2] ,个"
+  },
+  {
+    "id": 245,
+    "hanzi": "新鲜",
+    "image": "",
+    "pinyinToneSpace": "xīn xiān",
+    "definition": "fresh (experience, food etc); freshness"
+  },
+  {
+    "id": 246,
+    "hanzi": "信用卡",
+    "image": "",
+    "pinyinToneSpace": "xìn yòng kǎ",
+    "definition": "credit card"
+  },
+  {
+    "id": 247,
+    "hanzi": "行李箱",
+    "image": "",
+    "pinyinToneSpace": "xíng lǐ xiāng",
+    "definition": "suitcase"
+  },
+  {
+    "id": 248,
+    "hanzi": "熊猫",
+    "image": "",
+    "pinyinToneSpace": "xióng māo",
+    "definition": "panda; CL:只[zhi1]"
+  },
+  {
+    "id": 249,
+    "hanzi": "需要",
+    "image": "",
+    "pinyinToneSpace": "xū yào",
+    "definition": "to need; to want; to demand; needs; to require"
+  },
+  {
+    "id": 250,
+    "hanzi": "选择",
+    "image": "",
+    "pinyinToneSpace": "xuǎn zé",
+    "definition": "to select; to pick; choice; option; alternative"
+  },
+  {
+    "id": 251,
+    "hanzi": "要求",
+    "image": "",
+    "pinyinToneSpace": "yāo qiú",
+    "definition": "to request; to require; to stake a claim; to ask; to demand; CL:点[dian3]"
+  },
+  {
+    "id": 252,
+    "hanzi": "爷爷",
+    "image": "",
+    "pinyinToneSpace": "yé ye",
+    "definition": "(informal) father's father; paternal grandfather; CL:个"
+  },
+  {
+    "id": 253,
+    "hanzi": "一直",
+    "image": "",
+    "pinyinToneSpace": "yī zhí",
+    "definition": "straight (in a straight line); continuously; always; from the beginning of... up to...; all along"
+  },
+  {
+    "id": 254,
+    "hanzi": "一定",
+    "image": "",
+    "pinyinToneSpace": "yí dìng",
+    "definition": "surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
+  },
+  {
+    "id": 255,
+    "hanzi": "一共",
+    "image": "",
+    "pinyinToneSpace": "yī gòng",
+    "definition": "altogether"
+  },
+  {
+    "id": 256,
+    "hanzi": "一会儿",
+    "image": "",
+    "pinyinToneSpace": "yī huì er",
+    "definition": "a while"
+  },
+  {
+    "id": 257,
+    "hanzi": "一样",
+    "image": "",
+    "pinyinToneSpace": "yī yàng",
+    "definition": "same; like; equal to; the same as; just like"
+  },
+  {
+    "id": 258,
+    "hanzi": "以前",
+    "image": "",
+    "pinyinToneSpace": "yǐ qián",
+    "definition": "before; formerly; previous; ago"
+  },
+  {
+    "id": 259,
+    "hanzi": "一般",
+    "image": "",
+    "pinyinToneSpace": "yī bān",
+    "definition": "ordinary; common; general; generally; in general; same"
+  },
+  {
+    "id": 260,
+    "hanzi": "一边",
+    "image": "",
+    "pinyinToneSpace": "yī biān",
+    "definition": "one side; either side; on the one hand; on the other hand; doing while"
+  },
+  {
+    "id": 261,
+    "hanzi": "音乐",
+    "image": "",
+    "pinyinToneSpace": "yīn yuè",
+    "definition": "music; CL:张[zhang1] ,曲[qu3] ,段[duan4]"
+  },
+  {
+    "id": 262,
+    "hanzi": "银行",
+    "image": "",
+    "pinyinToneSpace": "yín háng",
+    "definition": "bank; CL:家[jia1] ,个"
+  },
+  {
+    "id": 263,
+    "hanzi": "饮料",
+    "image": "",
+    "pinyinToneSpace": "yǐn liào",
+    "definition": "(a) drink; beverage"
+  },
+  {
+    "id": 264,
+    "hanzi": "应该",
+    "image": "",
+    "pinyinToneSpace": "yīng gāi",
+    "definition": "ought to; should; must"
+  },
+  {
+    "id": 265,
+    "hanzi": "影响",
+    "image": "",
+    "pinyinToneSpace": "yǐng xiǎng",
+    "definition": "influence; effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]"
+  },
+  {
+    "id": 266,
+    "hanzi": "用",
+    "image": "",
+    "pinyinToneSpace": "yòng",
+    "definition": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore"
+  },
+  {
+    "id": 267,
+    "hanzi": "游戏",
+    "image": "",
+    "pinyinToneSpace": "yóu xì",
+    "definition": "game; play; CL:场[chang3]"
+  },
+  {
+    "id": 268,
+    "hanzi": "有名",
+    "image": "",
+    "pinyinToneSpace": "yǒu míng",
+    "definition": "famous; well-known"
+  },
+  {
+    "id": 269,
+    "hanzi": "又",
+    "image": "",
+    "pinyinToneSpace": "yòu",
+    "definition": "(once) again; also; both... and...; again"
+  },
+  {
+    "id": 270,
+    "hanzi": "遇到",
+    "image": "",
+    "pinyinToneSpace": "yù dào",
+    "definition": "to meet; to run into; to come across"
+  },
+  {
+    "id": 271,
+    "hanzi": "元",
+    "image": "",
+    "pinyinToneSpace": "yuán",
+    "definition": "Yuan (RMB); first; primary; basic"
+  },
+  {
+    "id": 272,
+    "hanzi": "愿意",
+    "image": "",
+    "pinyinToneSpace": "yuàn yì",
+    "definition": "to wish; to want; ready; willing (to do sth)"
+  },
+  {
+    "id": 273,
+    "hanzi": "月亮",
+    "image": "",
+    "pinyinToneSpace": "yuè liang",
+    "definition": "moon"
+  },
+  {
+    "id": 274,
+    "hanzi": "越",
+    "image": "",
+    "pinyinToneSpace": "yuè",
+    "definition": "to exceed; to climb over; to surpass; the more... the more"
+  },
+  {
+    "id": 275,
+    "hanzi": "站",
+    "image": "",
+    "pinyinToneSpace": "zhàn",
+    "definition": "station; to stand; to halt; to stop; branch of a company or organisation"
+  },
+  {
+    "id": 276,
+    "hanzi": "张",
+    "image": "",
+    "pinyinToneSpace": "zhāng",
+    "definition": "classifier for flat objects, sheet; sheet of paper; classifier for votes; to open up; to spread; "
+  },
+  {
+    "id": 277,
+    "hanzi": "长(动词)",
+    "image": "",
+    "pinyinToneSpace": "zhǎng",
+    "definition": "elder; senior; to grow; to develop; to come into being; to acquire; to enhance; to increase"
+  },
+  {
+    "id": 278,
+    "hanzi": "着急",
+    "image": "",
+    "pinyinToneSpace": "zháo jí",
+    "definition": "to worry; to feel anxious"
+  },
+  {
+    "id": 279,
+    "hanzi": "照顾",
+    "image": "",
+    "pinyinToneSpace": "zhào gu",
+    "definition": "to take care of; to show consideration; to attend to; to look after"
+  },
+  {
+    "id": 280,
+    "hanzi": "照片",
+    "image": "",
+    "pinyinToneSpace": "zhào piàn",
+    "definition": "photo; photograph; picture; CL:张[zhang1] ,套[tao4] ,幅[fu2]"
+  },
+  {
+    "id": 281,
+    "hanzi": "照相机",
+    "image": "",
+    "pinyinToneSpace": "zhào xiàng jī",
+    "definition": "camera; CL:个,架[jia4] ,部[bu4] ,台[tai2] ,只[zhi1]"
+  },
+  {
+    "id": 282,
+    "hanzi": "只(副词)",
+    "image": "",
+    "pinyinToneSpace": "zhǐ",
+    "definition": "only; just; merely"
+  },
+  {
+    "id": 283,
+    "hanzi": "只(量词)",
+    "image": "",
+    "pinyinToneSpace": "zhǐ",
+    "definition": "single; one-only"
+  },
+  {
+    "id": 284,
+    "hanzi": "只有…才…",
+    "image": "",
+    "pinyinToneSpace": "zhǐ yǒu …cái …",
+    "definition": "only if… then…"
+  },
+  {
+    "id": 285,
+    "hanzi": "中间",
+    "image": "",
+    "pinyinToneSpace": "zhōng jiān",
+    "definition": "between; intermediate; mid; middle"
+  },
+  {
+    "id": 286,
+    "hanzi": "中文",
+    "image": "",
+    "pinyinToneSpace": "zhōng wén",
+    "definition": "Chinese written language; Chinese writing; Chinese"
+  },
+  {
+    "id": 287,
+    "hanzi": "终于",
+    "image": "",
+    "pinyinToneSpace": "zhōng yú",
+    "definition": "at last; in the end; finally; eventually"
+  },
+  {
+    "id": 288,
+    "hanzi": "种(量词)",
+    "image": "",
+    "pinyinToneSpace": "zhǒng",
+    "definition": "kind; sort; type"
+  },
+  {
+    "id": 289,
+    "hanzi": "重要",
+    "image": "",
+    "pinyinToneSpace": "zhòng yào",
+    "definition": "important; significant; major"
+  },
+  {
+    "id": 290,
+    "hanzi": "周末",
+    "image": "",
+    "pinyinToneSpace": "zhōu mò",
+    "definition": "weekend"
+  },
+  {
+    "id": 291,
+    "hanzi": "主要",
+    "image": "",
+    "pinyinToneSpace": "zhǔ yào",
+    "definition": "main; principal; major; primary"
+  },
+  {
+    "id": 292,
+    "hanzi": "注意",
+    "image": "",
+    "pinyinToneSpace": "zhù yì",
+    "definition": "to take note of; to pay attention to"
+  },
+  {
+    "id": 293,
+    "hanzi": "自己",
+    "image": "",
+    "pinyinToneSpace": "zì jǐ",
+    "definition": "self; (reflexive pronoun); own"
+  },
+  {
+    "id": 294,
+    "hanzi": "自行车",
+    "image": "",
+    "pinyinToneSpace": "zì xíng chē",
+    "definition": "bicycle; bike; CL:辆[liang4]"
+  },
+  {
+    "id": 295,
+    "hanzi": "总是",
+    "image": "",
+    "pinyinToneSpace": "zǒng shì",
+    "definition": "always"
+  },
+  {
+    "id": 296,
+    "hanzi": "嘴",
+    "image": "",
+    "pinyinToneSpace": "zuǐ",
+    "definition": "mouth; beak; spout (of teapot etc); CL:张[zhang1] ,个"
+  },
+  {
+    "id": 297,
+    "hanzi": "最后",
+    "image": "",
+    "pinyinToneSpace": "zuì hòu",
+    "definition": "final; last; finally; ultimate"
+  },
+  {
+    "id": 298,
+    "hanzi": "最近",
+    "image": "",
+    "pinyinToneSpace": "zuì jìn",
+    "definition": "recent; recently; these days; latest; soon; nearest (of locations); shortest (of routes)"
+  },
+  {
+    "id": 299,
+    "hanzi": "作业",
+    "image": "",
+    "pinyinToneSpace": "zuò yè",
+    "definition": "school assignment; homework; work; task; operation; to operate; CL:个"
+  }
+]
