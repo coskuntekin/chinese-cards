@@ -23,10 +23,19 @@
           <small>
             {{word.definition}}
           </small>
-          <p>
-            <svg v-show="hasNoImage" title="Sorry! Seems like can't find image" aria-hidden="true" class="svg-icon svg-8" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"></path></svg>
-            <img v-show="!hasNoImage" class="img-responsive" v-bind:src="word.image" v-bind:alt="word.definition">
-          </p>
+          <div class="padding-tb" aria-label="No images">
+            <svg v-show="hasNoImage" title="Sorry! Seems like can't find image" aria-hidden="true" class="svg-icon svg-8" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M464 448H48c-26.51 0-48-21.49-48-48V112c0-26.51 21.49-48 48-48h416c26.51 0 48 21.49 48 48v288c0 26.51-21.49 48-48 48zM112 120c-30.928 0-56 25.072-56 56s25.072 56 56 56 56-25.072 56-56-25.072-56-56-56zM64 384h384V272l-87.515-87.515c-4.686-4.686-12.284-4.686-16.971 0L208 320l-55.515-55.515c-4.686-4.686-12.284-4.686-16.971 0L64 336v48z"></path></svg>            
+          </div>
+          <div class="padding-tb" aria-label="Images">
+            <span v-if="!word.image">
+              <small>
+                Image is loading ...
+              </small>
+            </span>
+            <span v-if="word.image">
+              <img v-show="!hasNoImage" class="img-responsive" v-bind:src="word.image" v-bind:alt="word.definition">
+            </span>
+          </div>
         </div>
       </li>
     </ul>
@@ -45,7 +54,7 @@ export default {
   data() {
     return {
       images: [],
-      hanzi: "",
+      hanzi: '',
       hasNoImage: false,
       isInfo: false,
       isImageChached: false,
@@ -65,7 +74,7 @@ export default {
   },
   methods: {
     fetchImages(id, hanzi) {
-      const apiKey = "9794611-562bab510159825d5b60544a1";
+      const apiKey = '9794611-562bab510159825d5b60544a1';
       const url = `https://pixabay.com/api/?key=${apiKey}&lang=zh&q=${hanzi}&image_type=photo&pretty=true&per_page=3`;
       fetch(url)
         .then(response => {
@@ -80,7 +89,7 @@ export default {
         });
     },
     btnVoice(hanzi) {
-      if (responsiveVoice.voiceSupport()) responsiveVoice.speak(hanzi, "Chinese Female");
+      if (responsiveVoice.voiceSupport()) responsiveVoice.speak(hanzi, 'Chinese Female');
     },
     btnInfoToggle() {
       this.isImageChached = false;
@@ -95,26 +104,18 @@ export default {
       this.btnInfoToggle();
     },
     btnInfo(id, hanzi) {
-      if (this.isInfo === true) {
-        this.isInfo = false;
-      } else {
-        this.isInfo = true;
-      }
+      this.isInfo ? this.isInfo = false : this.isInfo = true;
       if (this.isImageChached === false) this.fetchImages(id, hanzi);
       this.isImageChached = true;
     },
     injectImage(id, images, words) {
-      let image = "";
+      let image = '';
       if (images.length === 0) {
         this.hasNoImage = true;
       } else {
-        for (let i = 0; i < images.length; i++) {
-          image = images[1].previewURL;
-        }
+        image = images.shift().previewURL;
         words.forEach(element => {
-          if (id === element.id) {
-            element.image = image;
-          }
+          if (id === element.id) element.image = image;
         });
         this.hasNoImage = false;
       }
@@ -198,5 +199,9 @@ hr{
 .img-responsive {
   max-width: 100%;
   height: 120px;
+}
+.padding-tb{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 </style>

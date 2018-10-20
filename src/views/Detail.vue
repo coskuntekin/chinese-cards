@@ -22,7 +22,7 @@ export default {
   },
   methods: {   
     fetchWords() {
-      const url = "data/hskthree.json";
+      const url = 'data/hskthree.json';
       fetch(url)
         .then(response => {
           if (response.ok) return response.json();
