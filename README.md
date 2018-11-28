@@ -16,6 +16,12 @@ npm run serve
 
 ![ChineseCards](screenshot.png)
 
+### Changelog
+
+[28/11/2018]
+
+    - add contenteditable
+
 ## Assets Sources
 
 - Voices: https://responsivevoice.org
