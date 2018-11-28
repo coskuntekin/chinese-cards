@@ -20,7 +20,7 @@ npm run serve
 
 [28/11/2018]
 
-    - add contenteditable
+- add contenteditable
 
 ## Assets Sources
 
