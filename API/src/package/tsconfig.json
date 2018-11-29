@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es2017",
+        "noImplicitAny": true,
+        "outFile": "./dist/package-app.js",
+        "experimentalDecorators": true,
+        "sourceMap": false
+    },
+    "include": [
+        "./src/",
+    ],
+    "exclude": [
+        "./dist"
+    ]
+}

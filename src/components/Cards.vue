@@ -4,10 +4,16 @@
       三百汉子
     </h1>
     <ul class="card-list">
-      <li class="card-item" v-for="word in paginatedData" v-bind:key="word.id">
+      <li class="card-item" v-for="word in paginatedData" v-bind:key="word._id">
         <div class="grid-title">
-          <h1 class="text-light">{{word.id + 1}}</h1>
-          <div class="conteneditable" @blur="btnSaveEdit($event)" contenteditable="true">{{word.hanzi}}</div>
+          <div class="text-light">
+            <h1>
+              {{pageNumber}}
+            </h1>
+          </div>
+          <div class="conteneditable">
+            {{word.hanzi}}            
+          </div>
           <button class="btn svg-2 no-padding text-light" title="What is mean?" type="button" @click="btnInfo(word.id,word.hanzi)">
             <svg aria-hidden="true" class="svg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path fill="currentColor" d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"></path>
             </svg>
@@ -39,119 +45,110 @@
             </span>
           </div>
         </div>
+        <button class="btn svg-3" type="button" aria-label="Prev page button" @click="prevPage()" @keyup.left="prevPage()" v-bind:disabled="pageNumber === 0">
+          <svg aria-hidden="true" class="svg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+            <path d="M256 504C119 504 8 393 8 256S119 8 256 8s248 111 248 248-111 248-248 248zm28.9-143.6L209.4 288H392c13.3 0 24-10.7 24-24v-16c0-13.3-10.7-24-24-24H209.4l75.5-72.4c9.7-9.3 9.9-24.8.4-34.3l-11-10.9c-9.4-9.4-24.6-9.4-33.9 0L107.7 239c-9.4 9.4-9.4 24.6 0 33.9l132.7 132.7c9.4 9.4 24.6 9.4 33.9 0l11-10.9c9.5-9.5 9.3-25-.4-34.3z"></path>
+          </svg>
+        </button>
+        <button class="btn svg-3" type="button" aria-label="Next page button" @click="nextPage()" @keyup.right="nextPage()" v-bind:disabled="pageNumber >= pageCount -1">
+          <svg aria-hidden="true" class="svg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>
+        </button>
       </li>
     </ul>
-    <button class="btn svg-3" type="button" @click="prevPage(isInfo)" @keyup.left="prevPage(isInfo)" v-bind:disabled="pageNumber === 0">
-      <svg aria-hidden="true" class="svg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-        <path d="M256 504C119 504 8 393 8 256S119 8 256 8s248 111 248 248-111 248-248 248zm28.9-143.6L209.4 288H392c13.3 0 24-10.7 24-24v-16c0-13.3-10.7-24-24-24H209.4l75.5-72.4c9.7-9.3 9.9-24.8.4-34.3l-11-10.9c-9.4-9.4-24.6-9.4-33.9 0L107.7 239c-9.4 9.4-9.4 24.6 0 33.9l132.7 132.7c9.4 9.4 24.6 9.4 33.9 0l11-10.9c9.5-9.5 9.3-25-.4-34.3z"></path>
-      </svg>
-    </button>
-    <button class="btn svg-3" type="button" @click="nextPage(isInfo)" @keyup.right="nextPage(isInfo)" v-bind:disabled="pageNumber >= pageCount -1">
-      <svg aria-hidden="true" class="svg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-28.9 143.6l75.5 72.4H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h182.6l-75.5 72.4c-9.7 9.3-9.9 24.8-.4 34.3l11 10.9c9.4 9.4 24.6 9.4 33.9 0L404.3 273c9.4-9.4 9.4-24.6 0-33.9L271.6 106.3c-9.4-9.4-24.6-9.4-33.9 0l-11 10.9c-9.5 9.6-9.3 25.1.4 34.4z"></path></svg>
-    </button>
   </div>
 </template>
 
 <script>
-export default {
-  name: "Cards",
-  data() {
-    return {
-      images: [],
-      hanzi: '',
-      hasNoImage: false,
-      isInfo: false,
-      isImageChached: false,
-      pageNumber: 0
-    };
-  },
-  props: {
-    isEditable: true,
-    listData: {
-      type: Array,
-      required: true
+  export default {
+    name: "Cards",
+    data() {
+      return {
+        images: [],
+        hanzi: '',
+        hasNoImage: false,
+        isInfo: false,
+        isImageChached: false,
+        pageNumber: 0
+      };
     },
-    size: {
-      type: Number,
-      required: false,
-      default: 1
-    }
-  },
-  methods: {
-    fetchImages(id, hanzi) {
-      const apiKey = '9794611-562bab510159825d5b60544a1';
-      const url = `https://pixabay.com/api/?key=${apiKey}&lang=zh&q=${hanzi}&image_type=photo&pretty=true&per_page=3`;
-      fetch(url)
-        .then(response => {
-          if (response.ok) return response.json();
-        })
-        .then(data => {
-          this.images = data;
-          this.injectImage(id, this.images.hits, this.listData);
-        })
-        .catch(error => {
-          console.error(`Upps ${error} went wrong!`);
-        });
+    props: {
+      listData: {
+        type: Array,
+        required: true
+      },
+      size: {
+        type: Number,
+        required: false,
+        default: 1
+      }
     },
-    postWord(url = ``, data = {}) {
-      return fetch(url, {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json; charset=utf-8",
-          },
-          body: JSON.stringify(data),
-      })
-      .then(response => response.json());
-    },   
-    btnVoice(hanzi) {
-      if (responsiveVoice.voiceSupport()) responsiveVoice.speak(hanzi, 'Chinese Female');
+    created () {
+      this.pageNumber = this.$route.params.id;
     },
-    btnSaveEdit(event) {
-      console.log(event.target.textContent);
+    methods: {
+      async fetchImages(id, hanzi) {
+        const apiKey = '9794611-562bab510159825d5b60544a1';
+        const url = `https://pixabay.com/api/?key=${apiKey}&lang=zh&q=${hanzi}&image_type=photo&pretty=true&per_page=3`;
+        await fetch(url)
+          .then(response => {
+            if (response.ok) return response.json();
+          })
+          .then(data => {
+            this.images = data;
+            this.injectImage(id, this.images.hits, this.listData);
+          })
+          .catch(error => {
+            console.error(`Upps ${error} went wrong!`);
+          });
+      },
+      btnVoice(hanzi) {
+        if (responsiveVoice.voiceSupport()) responsiveVoice.speak(hanzi, 'Chinese Female');
+      },
+      btnInfoToggle() {
+        this.isImageChached = false;
+        if (this.isInfo === true) this.isInfo = false;
+      },
+      nextPage() {
+        this.pageNumber++;
+        this.$router.push('/detail/' + (this.pageNumber+1));
+        this.btnInfoToggle();
+      },
+      prevPage() {
+        this.pageNumber--;
+        this.$router.push('/detail/' + (this.pageNumber+1));        
+        this.btnInfoToggle();
+      },
+      btnInfo(id, hanzi) {
+        this.isInfo ? this.isInfo = false : this.isInfo = true;
+        if (!this.isImageChached) this.fetchImages(id, hanzi);
+        this.isImageChached = true;
+      },
+      injectImage(id, images, words) {
+        let image = '';
+        if (images.length === 0) {
+          this.hasNoImage = true;
+        } else {
+          image = images.shift().previewURL;
+          words.forEach(element => {
+            if (id === element.id) element.image = image;
+          });
+          this.hasNoImage = false;
+        }
+      }
     },
-    btnInfoToggle() {
-      this.isImageChached = false;
-      if (this.isInfo === true) this.isInfo = false;
-    },
-    nextPage() {
-      this.pageNumber++;
-      this.btnInfoToggle();
-    },
-    prevPage() {
-      this.pageNumber--;
-      this.btnInfoToggle();
-    },
-    btnInfo(id, hanzi) {
-      this.isInfo ? this.isInfo = false : this.isInfo = true;
-      if (!this.isImageChached) this.fetchImages(id, hanzi);
-      this.isImageChached = true;
-    },
-    injectImage(id, images, words) {
-      let image = '';
-      if (images.length === 0) {
-        this.hasNoImage = true;
-      } else {
-        image = images.shift().previewURL;
-        words.forEach(element => {
-          if (id === element.id) element.image = image;
-        });
-        this.hasNoImage = false;
+    computed: {
+      pageCount() {
+        const l = this.listData.length;
+        const s = this.size;
+        return Math.floor(l / s);
+      },
+      paginatedData() {
+        const start = this.pageNumber * this.size;
+        const end = start + this.size;
+        return this.listData.slice(start, end);
       }
     }
-  },
-  computed: {
-    pageCount() {
-      let l = this.listData.length;
-      let s = this.size;
-      return Math.floor(l / s);
-    },
-    paginatedData() {
-      const start = this.pageNumber * this.size;
-      const end = start + this.size;
-      return this.listData.slice(start, end);
-    }
-  }
-};
+  };
 </script>
 
 <style scoped>
@@ -189,18 +186,18 @@ export default {
   hr {
     border-color: transparent transparent #adb5bd transparent;
   }
-  .svg-icon {
-    display: inline-block;
-    width: 1em;
-    height: 1em;
-    fill: #007bff;
-  }
   .conteneditable {
     display: inline-block;
     width: 100%;
     font-size: 2rem;
     color: #2c3e50;
     text-align: center;
+  }
+  .svg-icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    fill: #2c3e50;
   }
   .svg-2 {
     font-size: 2rem;
