@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "declaration": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "lib": ["dom", "es2015", "esnext.asynciterable"],
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist",
+      "target": "esnext",
+      "typeRoots": ["./node_modules/@types", "./typings"],
+      "strictPropertyInitialization": true,
+      "strictNullChecks": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": [
+      "node_modules"
+    ],
+    "compileOnSave": false  
+  }
+  
